@@ -1,6 +1,6 @@
 # Hi there, I'm Raphael 👋
 I'm a student interested in programming.
-- 🔭 I am currently working on an application that can be used to effectively build habits.
+- 🔭 I am currently working on a Pomodoro/study timer
 - 🌱 I’m currently learning Java
 
 ## 📈 GitHub Stats
